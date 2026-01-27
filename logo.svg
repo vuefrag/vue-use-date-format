@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <!-- Background -->
+  <rect width="96" height="96" rx="16" fill="#2c3e50"/>
+
+  <!-- Primary shape -->
+  <circle cx="48" cy="42" r="20" fill="#e67e22"/>
+
+  <!-- Function name -->
+  <text x="48" y="72" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="7" fill="#e67e22" opacity="0.85">Time</text>
+
+  <!-- Bottom accent line -->
+  <rect x="28" y="82" width="40" height="2" rx="1" fill="#e67e22" opacity="0.5"/>
+</svg>

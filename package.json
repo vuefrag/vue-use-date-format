@@ -1,0 +1,54 @@
+{
+  "name": "vue-use-date-format",
+  "version": "1.0.2",
+  "description": "Vue 3 composable utility",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "logo.svg",
+    "banner.svg",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "prepublishOnly": "cp README.npm.md README.md && npm run build",
+    "postpublish": "cp README.github.md README.md"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "reactive",
+    "time",
+    "tokens",
+    "strftime",
+    "localize",
+    "datetime"
+  ],
+  "author": "VueFrag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuefrag/vue-use-date-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vuefrag/vue-use-date-format/issues"
+  },
+  "homepage": "https://github.com/vuefrag/vue-use-date-format#readme",
+  "peerDependencies": {
+    "vue": ">=3.0.0"
+  },
+  "devDependencies": {
+    "unbuild": "^2.0.0",
+    "typescript": "^5.0.0",
+    "vue": "^3.4.0"
+  }
+}
