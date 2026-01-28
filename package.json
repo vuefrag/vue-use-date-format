@@ -1,6 +1,6 @@
 {
   "name": "vue-use-date-format",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue 3 composable utility",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
