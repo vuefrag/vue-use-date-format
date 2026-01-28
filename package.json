@@ -19,9 +19,7 @@
     "README.md"
   ],
   "scripts": {
-    "build": "unbuild",
-    "prepublishOnly": "cp README.npm.md README.md && npm run build",
-    "postpublish": "cp README.github.md README.md"
+    "build": "unbuild"
   },
   "keywords": [
     "vue",

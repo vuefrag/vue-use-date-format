@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="vue-use-date-format" width="100%" />
+  <img src="https://raw.githubusercontent.com/vuefrag/vue-use-date-format/main/banner.svg" alt="vue-use-date-format" width="100%" />
 </p>
 
 <h1 align="center">vue-use-date-format</h1>
