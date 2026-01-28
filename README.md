@@ -4,7 +4,7 @@
 
 <h1 align="center">vue-use-date-format</h1>
 
-<p align="center"></p>
+<p align="center">A Vue 3 composition API utility for formatting dates reactively using format tokens (YYYY, MM, DD, HH, mm, ss, etc.). Supports localization and custom meridiem.</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vue-use-date-format"><img src="https://img.shields.io/npm/v/vue-use-date-format.svg" alt="npm version" /></a>
@@ -18,8 +18,6 @@ npm install vue-use-date-format
 ```
 
 ## Usage
-
-> **Note:** This example has been hand-crafted for clarity. Original example uses useNow composable - using static date for simplicity
 
 ```ts
 import { useDateFormat } from 'vue-use-date-format'

@@ -1,7 +1,7 @@
 {
   "name": "vue-use-date-format",
-  "version": "1.0.3",
-  "description": "Vue 3 composable utility",
+  "version": "1.0.4",
+  "description": "Vue 3 reactive date formatting with customizable tokens",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -24,6 +24,11 @@
     "postpublish": "cp README.github.md README.md"
   },
   "keywords": [
+    "vue",
+    "vue3",
+    "composition-api",
+    "composable",
+    "vueuse",
     "date",
     "format",
     "reactive",

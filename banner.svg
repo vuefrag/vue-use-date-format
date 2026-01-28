@@ -26,7 +26,7 @@
   <text x="80" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="700" fill="white">vue-use-date-format</text>
 
   <!-- Description -->
-  <text x="80" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#94a3b8">Vue 3 composable utility</text>
+  <text x="80" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="32" fill="#94a3b8">Vue 3 reactive date formatting with customizable tokens</text>
 
   <!-- Install command -->
   <g transform="translate(80, 420)">
