@@ -1,6 +1,6 @@
 {
   "name": "vue-use-date-format",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Vue 3 reactive date formatting with customizable tokens",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/vuefrag/vue-use-date-format#readme",
   "peerDependencies": {
-    "vue": ">=3.0.0"
+    "vue": "^3.5.0"
   },
   "devDependencies": {
     "unbuild": "^2.0.0",
